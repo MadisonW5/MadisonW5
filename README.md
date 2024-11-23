@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madison
 - 🏫 I’m currently studying chemical engineering
-- 🎮 I'm a RPG Maker horror game enjoyer
+- 🎮 RPG Maker horror game enjoyer
 
 <!---
 MadisonW5/MadisonW5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
